@@ -3,14 +3,14 @@
 Aspiring **Software Developer** and **Android Developer** with a strong foundation in computer applications, hands-on development experience, and a passion for building impactful tech solutions.
 
 📍 Jamnagar, Gujarat | 📧 jadejamayurdhwajsinh6@gmail.com | 📞 +91 8320435229  
-🔗 [LinkedIn](https://linkedin.com/in/jadeja-mayurdhwajsinh) • [GitHub](https://github.com/JadejaMayurdhwajsinh) • [LeetCode](https://leetcode.com/your_leetcode_username) <!-- Replace with actual LeetCode link -->
+🔗 [LinkedIn](https://linkedin.com/in/JadejaMayurdhwajsinh) • [GitHub](https://github.com/JadejaMayurdhwajsinh) • [LeetCode](https://leetcode.com/JadejaMayurdhwajsinh)
 
 ---
 
 ## 🎓 Education
 
-**M.C.A.** – Dharmsinh Desai University *(2024–2026, Pursuing) – 8.64 SPI (Sem-2)*
-**B.C.A.** – Dharmsinh Desai University *(2021–2024)* – 76.10%
+- **M.C.A.** – Dharmsinh Desai University *(2024–2026, Pursuing) – 8.64 SPI (Sem-2)*
+- **B.C.A.** – Dharmsinh Desai University *(2021–2024)* – 76.10%
 
 ---
 
@@ -59,4 +59,4 @@ Aspiring **Software Developer** and **Android Developer** with a strong foundati
 
 ---
 
-> 📌 *Open to internships and entry-level roles in Android or full-stack development.*
+> 📌 *Open to internships and entry-level roles in full-stack development or Android.*
