@@ -3,7 +3,7 @@
 Aspiring **Software Developer** and **Android Developer** with a strong foundation in computer applications, hands-on development experience, and a passion for building impactful tech solutions.
 
 📍 Jamnagar, Gujarat | 📧 jadejamayurdhwajsinh6@gmail.com | 📞 +91 8320435229  
-🔗 [LinkedIn](https://linkedin.com/in/JadejaMayurdhwajsinh) • [GitHub](https://github.com/JadejaMayurdhwajsinh) • [LeetCode](https://leetcode.com/JadejaMayurdhwajsinh)
+🔗 [LinkedIn]([https://linkedin.com/in/Jadeja_Mayurdhwajsinh](https://www.linkedin.com/in/jadeja-mayurdhwajsinh-82a68b259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) • [GitHub](https://github.com/JadejaMayurdhwajsinh) • [LeetCode](https://leetcode.com/jadeja_mayurdhwajsinh)
 
 ---
 
