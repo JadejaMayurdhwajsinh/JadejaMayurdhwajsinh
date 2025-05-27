@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Jadeja Mayurdhwajsinh
 
 Aspiring **Software Developer** and **Android Developer** with a strong foundation in computer applications, hands-on development experience, and a passion for building impactful tech solutions.
@@ -10,7 +9,7 @@ Aspiring **Software Developer** and **Android Developer** with a strong foundati
 
 ## 🎓 Education
 
-**M.C.A.** – Dharmsinh Desai University *(2024–2026, Pursuing)*  – 8.64 SPI (Sem-2)
+**M.C.A.** – Dharmsinh Desai University *(2024–2026, Pursuing) – 8.64 SPI (Sem-2)*
 **B.C.A.** – Dharmsinh Desai University *(2021–2024)* – 76.10%
 
 ---
