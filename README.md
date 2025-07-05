@@ -7,22 +7,6 @@ Aspiring **Software Developer** and **Android Developer** with a strong foundati
 
 ---
 
-## 🎓 Education
-
-- **M.C.A.** – Dharmsinh Desai University *(2024–2026, Pursuing) – 8.64 SPI (Sem-2)*
-- **B.C.A.** – Dharmsinh Desai University *(2021–2024)* – 76.10%
-
----
-
-## 💼 Experience
-
-**Android Developer Intern – Venom Technologies**  
-*Dec 2023 – Mar 2024*  
-- Built features for Android apps using Java, XML, Room DB, and Firebase.
-- Gained practical experience in real-world mobile development and collaboration.
-
----
-
 ## 🛠️ Skills
 
 **👨‍💻 Languages:**  
@@ -55,19 +39,6 @@ Aspiring **Software Developer** and **Android Developer** with a strong foundati
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-
----
-
-## 🚀 Projects
-
-### [📱 Advanced Notes App](https://github.com/JadejaMayurdhwajsinh/notes-app)
-- Android app for creating, editing, and hiding notes (like Google KeepNotes).
-- Uses Room DB + Firebase Firestore.
-
-### [🌐 Health & Wellness Website](https://github.com/JadejaMayurdhwajsinh/health-website)
-- Static website with HTML/CSS featuring diet tips, BMI calculator, exercise guides.
-
----
 
 ## 🏅 Highlights
 
