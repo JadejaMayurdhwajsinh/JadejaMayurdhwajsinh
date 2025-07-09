@@ -80,7 +80,8 @@
 <hr style="border: 1px solid #00FF00;">
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=JadejaMayurdhwajsinh&theme=default" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JadejaMayurdhwajsinh&show_icons=true&theme=default" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadejaMayurdhwajsinh&layout=compact&theme=default" alt="Top Languages" height="180px" />
 </p>
 
 
