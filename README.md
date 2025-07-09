@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋🏻, I'm Jadeja Mayurdhwajsinh</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/GDSC-Mobile%20Team-red?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/DUHacks%204.0-Core%20Organizer-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/DUHacks%204.0-Core%20Organizing%20Team-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
 <p align="center">
@@ -79,6 +79,9 @@
 
 <hr style="border: 1px solid #00FF00;">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JadejaMayurdhwajsinh&" alt="JadejaMayurdhwajsinh" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=JadejaMayurdhwajsinh&theme=default" alt="GitHub Streak Stats" />
+</p>
+
 
 <p align="center"><strong>📌 Currently seeking internships or full-time roles in Full-Stack or Android Development. Let's connect!</strong></p>
