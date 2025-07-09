@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://app.netlify.com/projects/mayurdhwajsinh-portfolio-site/" target="_blank">
+  <a href="https://mayurdhwajsinh-portfolio-site.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Live-green?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
