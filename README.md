@@ -31,7 +31,6 @@
   <img src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif" width="300" />
 </p>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jadeja-mayurdhwajsinh-82a68b259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jadeja-Mayurdhwajsinh" height="30" width="40" /></a>
@@ -75,14 +74,9 @@
 
 <hr style="border: 1px solid #00FF00;">
 
-<p>&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=JadejaMayurdhwajsinh&show_icons=true&theme=default" /></p>
-
-<hr style="border: 1px solid #00FF00;">
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JadejaMayurdhwajsinh&show_icons=true&theme=default" alt="GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadejaMayurdhwajsinh&layout=compact&theme=default" alt="Top Languages" height="180px" />
 </p>
-
 
 <p align="center"><strong>📌 Currently seeking internships or full-time roles in Full-Stack or Android Development. Let's connect!</strong></p>
