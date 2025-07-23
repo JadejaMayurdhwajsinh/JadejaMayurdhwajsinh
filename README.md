@@ -12,8 +12,8 @@
 
 <h3 align="center">Aspiring Software and Android Developer with a strong foundation in computer applications, hands-on development experience, and a passion for building impactful solutions.</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JadejaMayurdhwajsinh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif" width="300" alt="Coding GIF" />
 </p>
 
 ---
@@ -75,8 +75,8 @@
 <hr style="border: 1px solid #00FF00;">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JadejaMayurdhwajsinh&show_icons=true&theme=default" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadejaMayurdhwajsinh&layout=compact&theme=default" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JadejaMayurdhwajsinh&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadejaMayurdhwajsinh&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center"><strong>📌 Currently seeking internships or full-time roles in Full-Stack or Android Development. Let's connect!</strong></p>
