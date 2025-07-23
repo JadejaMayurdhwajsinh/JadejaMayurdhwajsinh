@@ -24,7 +24,7 @@
 📫 **Reach me at**: jadejamayurdhwajsinh6@gmail.com
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/main/Assets/Developer.gif" width="300" />
+  <img src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif" width="300" alt="Coding GIF" style=" mix-blend-mode : color blur" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
