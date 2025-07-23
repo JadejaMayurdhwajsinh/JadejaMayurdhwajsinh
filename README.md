@@ -9,6 +9,9 @@
     <img src="https://img.shields.io/badge/🌐 Portfolio-Live-green?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JadejaMayurdhwajsinh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</p>
 
 <h3 align="center">Aspiring Software and Android Developer with a strong foundation in computer applications, hands-on development experience, and a passion for building impactful solutions.</h3>
 
